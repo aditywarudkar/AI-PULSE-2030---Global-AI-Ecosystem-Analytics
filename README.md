@@ -1,84 +1,571 @@
-# 🤖 AI Pulse 2030 – Global AI Ecosystem Analytics
+# 🤖 AI Pulse 2030 – Global AI Ecosystem Analysis
 
-![AI Pulse 2030](Assets/Backgrounds/banner.png)
 
-## 📌 Project Overview
-
-**AI Pulse 2030 – Global AI Ecosystem Analytics** is an end-to-end **Data Analytics and Business Intelligence project** designed to analyze the rapidly evolving global Artificial Intelligence ecosystem.
-
-The project explores AI tools, companies, workforce transformation, education trends, and future AI opportunities by transforming raw datasets into meaningful business insights using **Python, SQL, Microsoft Excel, and Power BI**.
-
-This project demonstrates a complete analytics lifecycle including **data cleaning, data transformation, exploratory analysis, SQL querying, dashboard development, KPI reporting, and business intelligence storytelling**.
 
 ---
 
-# 🎯 Business Objective
 
-Artificial Intelligence is transforming industries, businesses, and careers globally. This project aims to analyze:
 
-- Growth of AI tools and technologies
-- Global AI company ecosystem
-- AI category distribution
-- Open-source AI adoption
-- Workforce impact due to AI automation
-- Job replacement risk
-- Future job demand
-- Education and skill requirements
-- Global AI adoption patterns
+# 📌 Project Overview
 
-The goal is to convert complex AI ecosystem data into actionable insights for better decision-making.
 
----
 
-# ❓ Business Questions
+**AI Pulse 2030** is an end-to-end Data Analytics and Business Intelligence project that explores the rapidly growing Artificial Intelligence ecosystem using **Excel, SQL, and Power BI**.
 
-## AI Ecosystem Analysis
 
-- How many AI tools exist globally?
-- Which AI categories are growing rapidly?
-- Which companies dominate the AI ecosystem?
-- What percentage of AI tools are open-source?
-- How active is the AI developer ecosystem?
 
-## Workforce Impact Analysis
+The project transforms raw datasets into interactive dashboards, providing insights into AI adoption, workforce transformation, education trends, AI tools, company performance, and future industry predictions.
 
-- Which job roles have higher AI replacement risk?
-- Which industries are most affected by AI?
-- Which careers have higher future demand?
-- How will AI transform employment patterns?
 
-## Education & Skill Analysis
 
-- Which skills will be valuable in the AI era?
-- What education levels are associated with future opportunities?
-- How can professionals prepare for AI transformation?
+The complete workflow includes:
 
-## Global AI Insights
 
-- Which countries contribute most to AI growth?
-- How is AI adoption distributed globally?
-- What are the future opportunities in AI?
+
+* Data Collection
+
+* Data Cleaning
+
+* Data Transformation
+
+* SQL Analysis
+
+* Excel Analysis
+
+* Business Intelligence
+
+* Dashboard Design
+
+* Executive Reporting
+
+
 
 ---
 
-# 🛠️ Technical Skills
 
-`Python` `SQL` `Microsoft Excel` `Power BI` `DAX` `Pandas` `NumPy` `Data Cleaning` `Data Transformation` `Data Modeling` `Business Intelligence` `Data Visualization` `Dashboard Development`
+
+# 🎯 Business Objectives
+
+
+
+* Analyze the global AI ecosystem.
+
+* Understand AI adoption across industries.
+
+* Study AI's impact on employment.
+
+* Explore AI adoption in education.
+
+* Analyze leading AI tools.
+
+* Build executive-level business dashboards.
+
+* Generate data-driven business insights.
+
+
 
 ---
 
-# 🧰 Tools & Technologies
 
-| Category | Tools |
-|---|---|
-| Programming | Python |
-| Database | SQL |
-| Data Analysis | Python, Pandas, NumPy |
-| Spreadsheet Analysis | Microsoft Excel |
-| Visualization | Power BI |
-| Reporting | Power BI Dashboards, Excel Dashboards |
-| Documentation | BRD, Project Report |
+
+# 🛠 Tech Stack
+
+
+
+| Technology | Purpose |
+
+|------------|---------|
+
+| Microsoft Excel | Data Cleaning & Analysis |
+
+| SQL | Data Exploration & Queries |
+
+| Power BI | Interactive Dashboards |
+
+| DAX | KPI Calculations |
+
+| Power Query | Data Transformation |
+
+| Git & GitHub | Version Control |
+
+
 
 ---
 
-# 🔄 Data Analytics Workflow
+
+
+# 📂 Repository Structure
+
+
+
+```text
+
+AI Pulse 2030 - Global AI Ecosystem
+
+│
+
+├── Assets
+
+│
+
+├── Dashboard Screenshots
+
+│
+
+├── Dataset
+
+│   ├── Raw Data
+
+│   └── Cleaned Data
+
+│
+
+├── Documentation
+
+│
+
+├── Excel Analysis
+
+│
+
+├── PowerBI Analysis
+
+│
+
+├── SQL Analysis
+
+│
+
+├── README.md
+
+├── LICENSE
+
+└── .gitignore
+
+```
+
+
+
+---
+
+
+
+# 📊 Dashboard Portfolio
+
+
+
+| Dashboard | Tool | Status |
+
+|-----------|------|--------|
+
+| Executive Dashboard | Power BI | ✅ Completed |
+
+| AI Tools Dashboard | Power BI | 🚧 In Progress |
+
+| Workforce Dashboard | Power BI | 🚧 In Progress |
+
+| Education Dashboard | Power BI | 🚧 In Progress |
+
+| Global Insights Dashboard | Power BI | 🚧 In Progress |
+
+| Future Trends Dashboard | Power BI | 🚧 In Progress |
+
+| Executive Excel Dashboard | Excel | ✅ Completed |
+
+
+
+---
+
+
+
+# 🖥 Dashboard Preview
+
+
+
+## Executive Dashboard (Power BI)
+
+
+
+
+<p align="center">
+  <img src="Dashboards%20Screenshots/ExecutiveDashboard.jpg" alt="Executive Dashboard" width="100%">
+</p>
+
+
+---
+
+
+
+## Upcoming Dashboards
+
+
+
+🚧 AI Tools Dashboard
+
+
+
+🚧 Workforce Dashboard
+
+
+
+🚧 Education Dashboard
+
+
+
+🚧 Global Insights Dashboard
+
+
+
+🚧 Future Trends Dashboard
+
+
+
+Dashboard previews will be uploaded as development progresses.
+
+
+
+---
+
+
+
+# 📁 Dataset
+
+
+
+### Raw Data
+
+
+
+Contains the original AI datasets collected from public sources.
+
+
+
+### Cleaned Data
+
+
+
+The cleaned datasets include:
+
+
+
+* Duplicate removal
+
+* Missing value handling
+
+* Data standardization
+
+* Formatting
+
+* Feature engineering
+
+* Quality validation
+
+
+
+---
+
+
+
+# 📈 Excel Analysis
+
+
+
+The Excel workbook includes:
+
+
+
+* Data Cleaning
+
+* Pivot Tables
+
+* Pivot Charts
+
+* KPI Analysis
+
+* Interactive Dashboard
+
+* Business Summary
+
+
+
+## Excel Dashboard
+
+
+
+
+
+<p align="center">
+
+  <img src="Excel%20Analysis/Executive%20Dashboard%20Excel.jpg" alt="Excel Dashboard" width="900">
+
+</p>
+
+
+
+---
+
+
+
+
+
+# 🗄 SQL Analysis
+
+
+
+SQL scripts include:
+
+
+
+* Data Exploration
+
+* Filtering
+
+* Sorting
+
+* Aggregations
+
+* GROUP BY
+
+* JOINS
+
+* Window Functions
+
+* Common Table Expressions (CTEs)
+
+* Business Queries
+
+* KPI Analysis
+
+
+
+---
+
+
+
+# 📊 Power BI Analysis
+
+
+
+Power BI includes:
+
+
+
+* Executive Dashboard
+
+* KPI Cards
+
+* Interactive Filters
+
+* Drill-through Reports
+
+* Slicers
+
+* Bookmarks
+
+* Dynamic Visualizations
+
+* DAX Measures
+
+* Custom Theme
+
+
+
+---
+
+
+
+# 📄 Documentation
+
+
+
+Project documentation includes:
+
+
+
+* Business Requirement Document (BRD)
+
+* MIT License
+
+* Project Report *(In Progress)*
+
+* Project Presentation *(In Progress)*
+
+* Data Dictionary *(Coming Soon)*
+
+
+
+---
+
+
+
+# 📌 Key Insights
+
+
+
+* AI adoption is accelerating across industries.
+
+* AI is transforming workforce requirements.
+
+* Demand for AI skills continues to increase.
+
+* Education is rapidly integrating AI technologies.
+
+* Businesses investing in AI demonstrate higher productivity.
+
+* AI tools are becoming critical across multiple business functions.
+
+
+
+---
+
+
+
+# 🚀 Project Progress
+
+
+
+| Module | Status |
+
+|---------|--------|
+
+| Repository Structure | ✅ Completed |
+
+| Dataset Collection | ✅ Completed |
+
+| Data Cleaning | ✅ Completed |
+
+| Excel Analysis | ✅ Completed |
+
+| SQL Analysis | ✅ Completed |
+
+| Executive Dashboard | ✅ Completed |
+
+| AI Tools Dashboard | 🚧 In Progress |
+
+| Workforce Dashboard | 🚧 In Progress |
+
+| Education Dashboard | 🚧 In Progress |
+
+| Global Insights Dashboard | 🚧 In Progress |
+
+| Future Trends Dashboard | 🚧 In Progress |
+
+| Project Report | 🚧 In Progress |
+
+| Presentation | 🚧 In Progress |
+
+
+
+---
+
+
+
+# 📅 Development Status
+
+
+
+This repository is under active development.
+
+
+
+New dashboards, reports, documentation, and project improvements are added regularly.
+
+
+
+Upcoming updates include:
+
+
+
+* Remaining Power BI Dashboards
+
+* Complete Project Report
+
+* Dashboard Walkthrough
+
+* Data Dictionary
+
+* Additional DAX Documentation
+
+* Performance Optimization
+
+
+
+---
+
+
+
+# ⭐ Support
+
+
+
+If you found this project useful, please consider giving this repository a **Star ⭐**.
+
+
+
+---
+
+
+
+# 👨‍💻 Author
+
+
+
+## Aditya Warudkar
+
+
+
+**Aspiring Data Analyst**
+
+
+
+### Skills
+
+
+
+* Microsoft Excel
+
+* SQL
+
+* Power BI
+
+* DAX
+
+* Power Query
+
+* Data Cleaning
+
+* Data Visualization
+
+* Business Intelligence
+
+* Dashboard Design
+
+
+
+---
+
+
+
+## 📬 Connect With Me
+
+
+
+* LinkedIn: *(https://www.linkedin.com/in/adity-warudkar)*
+
+* Email: *(Adityawarudkar291@gmail.com)*
+
+
+
+---
+
+
+
+# 📜 License
+
+
+
+This project is licensed under the **MIT License**.
+
+
+
+See the LICENSE file for more information.
